@@ -251,7 +251,7 @@
         loggedInID: null,
         scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
-        chatLink: 'https://raw.githack.com/basicBot/source/master/lang/en.json',
+        chatLink: 'https://raw.githack.com/FreyrPdj/lang/main/en.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -259,7 +259,7 @@
         settings: {
             botName: 'PDJ-BOT',
             language: 'english',
-            chatLink: 'https://raw.githack.com/basicBot/source/master/lang/en.json',
+            chatLink: 'https://raw.githack.com/FreyrPdj/lang/main/en.json',
             scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
