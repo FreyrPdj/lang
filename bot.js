@@ -112,7 +112,7 @@
 
     var loadChat = function(cb) {
         if (!cb) cb = function() {};
-        $.get('https://raw.githack.com/basicBot/source/master/lang/langIndex.json', function(json) {
+        $.get('https://raw.githubusercontent.com/FreyrPdj/langIndex/main/lang/langIndex.json', function(json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== 'undefined') {
                 langIndex = json;
