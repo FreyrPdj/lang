@@ -260,7 +260,7 @@
             botName: 'PDJ-BOT',
             language: 'english',
             chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
-            scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
+            scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
             startupVolume: 100, // 0-100
@@ -4065,9 +4065,9 @@
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void(0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void(0);
                     else {
-                        if (typeof basicBot.settings.website === 'string')
-                            API.sendChat(subChat(basicBot.chat.website, {
-                                link: basicBot.settings.website
+                        if (typeof basicBot.settings.discord === 'string')
+                            API.sendChat(subChat(basicBot.chat.discord, {
+                                link: basicBot.settings.discord
                             }));
                     }
                 }
