@@ -263,7 +263,7 @@
             scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
-            startupVolume: 10, // 0-100
+            startupVolume: 100, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: true,
@@ -312,7 +312,7 @@
             rulesLink: 'https://i.imgur.com/misKF4r.png',
             themeLink: null,
             fbLink: null,
-            youtubeLink: null,
+            youtubeLink: 'https://youtu.be/yUxX5FGJGNA',
             discord: 'https://discord.com/invite/rwu44ky',
             intervalMessages: [],
             messageInterval: 5,
