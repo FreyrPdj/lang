@@ -249,7 +249,7 @@
         status: false,
         name: 'PDJ-BOT',
         loggedInID: null,
-        scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
         cmdLink: 'http://git.io/245Ppg',
         chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
         chat: null,
