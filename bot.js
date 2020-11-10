@@ -316,7 +316,7 @@
             discord: 'http://www.discord.gg/plugdj',
             intervalMessages: [],
             messageInterval: 5,
-            songstats: true,
+            songstats: false,
             commandLiteral: '!',
             blacklists: {
                 NSFW: 'https://raw.githack.com/basicBot/custom/master/blacklists/NSFWlist.json',
