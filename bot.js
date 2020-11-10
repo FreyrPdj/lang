@@ -304,7 +304,7 @@
             afkRankCheck: 'ambassador',
             motdEnabled: false,
             motdInterval: 10,
-            motd: 'Merry Christmas 🎄',
+            motd: ':bongotap: :akpKittenPaws:',
             filterChat: true,
             etaRestriction: false,
             welcome: true,
