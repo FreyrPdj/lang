@@ -313,7 +313,7 @@
             themeLink: null,
             fbLink: null,
             youtubeLink: 'https://youtu.be/yUxX5FGJGNA',
-            discord: 'discord.gg/plugdj ',
+            discord: 'http://www.discord.gg/plugdj',
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
