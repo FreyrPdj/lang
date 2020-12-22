@@ -247,7 +247,7 @@
     var basicBot = {
         version: '2.12.3',
         status: false,
-        name: 'PDJ-BOT',
+        name: 'FreyrBot',
         loggedInID: null,
         scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
         cmdLink: 'http://git.io/245Ppg',
@@ -257,7 +257,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'PDJ-BOT',
+            botName: 'FreyrBot',
             language: 'english',
             chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
