@@ -263,7 +263,7 @@
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
-            startupVolume: 100, // 0-100
+            startupVolume: 80, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: true,
@@ -305,7 +305,7 @@
             motdEnabled: false,
             motdInterval: 10,
             motd: '🎄 Merry Christmas 🎄',
-            filterChat: true,
+            filterChat: false,
             etaRestriction: false,
             welcome: true,
             opLink: null,
