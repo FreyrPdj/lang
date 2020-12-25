@@ -262,8 +262,8 @@
             chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 30, // 1-200
-            startupVolume: 30, // 0-100
+            startupCap: 32, // 1-200
+            startupVolume: 32, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: true,
