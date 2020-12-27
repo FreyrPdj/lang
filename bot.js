@@ -251,7 +251,7 @@
         loggedInID: null,
         scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
         cmdLink: 'http://git.io/245Ppg',
-        chatLink: 'https://raw.githubusercontent.com/FreyrPdj/pdj-bot/source/master/lang/en.json',
+        chatLink: 'https://raw.githack.com/FreyrPdj/pdj-bot/main/en.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -259,7 +259,7 @@
         settings: {
             botName: 'FreyrBot',
             language: 'english',
-            chatLink: 'https://raw.githubusercontent.com/FreyrPdj/pdj-bot/source/master/lang/en.json',
+            chatLink: 'https://raw.githack.com/FreyrPdj/pdj-bot/main/en.json',
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 2, // 1-200
@@ -269,7 +269,7 @@
             autoskip: true,
             smartSkip: true,
             cmdDeletion: true,
-            maximumAfk: 100000,
+            maximumAfk: 1000,
             afkRemoval: false,
             maximumDc: 60,
             bouncerPlus: true,
@@ -304,7 +304,7 @@
             afkRankCheck: 'ambassador',
             motdEnabled: false,
             motdInterval: 10,
-            motd: '🎄 Merry Christmas 🎄',
+            motd: false,
             filterChat: false,
             etaRestriction: false,
             welcome: true,
