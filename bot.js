@@ -251,7 +251,7 @@
         loggedInID: null,
         scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
         cmdLink: 'http://git.io/245Ppg',
-        chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
+        chatLink: 'https://raw.githack.com/FreyrPdj/pdj-bot/main/en.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -259,11 +259,11 @@
         settings: {
             botName: 'FreyrBot',
             language: 'english',
-            chatLink: 'https://raw.githack.com/FreyrPdj/master/main/lang/en.json',
+            chatLink: 'https://raw.githack.com/FreyrPdj/pdj-bot/main/en.json',
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 32, // 1-200
-            startupVolume: 32, // 0-100
+            startupCap: 2, // 1-200
+            startupVolume: 50, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: true,
