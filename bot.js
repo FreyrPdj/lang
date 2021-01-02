@@ -262,7 +262,7 @@
             chatLink: 'https://raw.githack.com/FreyrPdj/pdj-events-bot/main/en.json',
             scriptLink: 'https://raw.githack.com/FreyrPdj/pdj/main/bot.js',
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 3, // 1-200
+            startupCap: 20, // 1-200
             startupVolume: 50, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
